@@ -1,0 +1,23 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+</head>
+
+<body>
+    <h1>Hello! I'm learning to code.</h1>
+
+    <p>My name is [Chloe].</p>
+
+    <p>This is my very first coding project!</p>
+
+    <h2>Things I Like</h2>
+
+    <ul>
+        <li>Music</li>
+        <li>YouTube</li>
+        <li>Shopping</li>
+    </ul>
+</body>
+</html>
